@@ -1,0 +1,14 @@
+{
+  "name": "quantum-angular",
+  "main": "angular.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/sameer-mehta-indianic/angular",
+  "authors": [
+    "Sameer Mehta <sameer.mehta@indianic.com>"
+  ],
+  "description": "All angular js files",
+  "keywords": [
+    "angularjs"
+  ],
+  "license": "MIT"
+}
